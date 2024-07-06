@@ -1,4 +1,4 @@
-# Hello, I am AI/ML Developer......... :wave:
+# Hello, I am an AI/ML Developer......... :wave:
 
 # My skills are:
 
