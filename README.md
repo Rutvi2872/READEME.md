@@ -8,7 +8,7 @@
 rutvijesdiya7534@gmail.com 
 
 
-<a href="//https://www.linkedin.com/in/rutvi-j-8278a2216/">
+<a href="//https://www.linkedin.com/in/rutvi-j-8278a2216/](https://www.linkedin.com/in/rutvi-j-8278a2216/">
   <img align="left" alt="Rutvi's Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://github.com/Rutvi2872"/>
